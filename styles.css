@@ -1,0 +1,14 @@
+#bg{
+    background-color: black; 
+}
+.text{
+    color: white;
+}
+#btn{
+    color: black;
+    height: 40px;
+    width:150px
+}
+.total{
+     align-content: center;
+}
